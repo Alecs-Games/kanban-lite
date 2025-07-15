@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "631178187130",
+    "project_id": "kanban-lite-38aea",
+    "storage_bucket": "kanban-lite-38aea.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631178187130:android:1aa675152130fb703a06c3",
+        "android_client_info": {
+          "package_name": "com.example.kanban_lite"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9MNH9sN5ufAC-NmGK5ENmMhL4p_bb5k0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
